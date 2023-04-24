@@ -1,3 +1,43 @@
-body{
-    background-color: aliceblue;
+.wrapper {
+    background-color: #CEEBF2;
+}
+
+header {
+    background-color:#3E6670;
+    padding: 25px;
+    text-align: center;
+    color:whitesmoke;
+}
+
+nav { 
+    background-color: #CEEBF2;
+    margin: 10px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+main { 
+    background-color: #CEEBF2;
+}
+
+footer { 
+    background-color:#3E6670;
+    padding: 25px;
+    text-align: center;
+    color:whitesmoke;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th {
+    background-color: whitesmoke;
+    color:white
 }
