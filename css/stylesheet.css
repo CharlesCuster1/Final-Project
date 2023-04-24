@@ -44,10 +44,12 @@ figure {
     margin-bottom: 0;
     margin-left: 0;
     padding: 0;
+    text-align: center;
 }
   
 figcaption {
     font-style: italic;
+    text-align: center;
 }
   
 img.responsive-main {
