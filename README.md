@@ -8,3 +8,7 @@ What did I learn?
 * The website was validated to WCAG2.1, level AA standards for accessibility.
 * The website was deployed to Microsoft Azure cloud services as a static web application.
 * The website was configured with a custom domain purchased and configured at NameCheap.
+
+Installation Instructions:
+1. Clone this repository
+2. This project uses static HTML so files can be opened locally by double clicking the .html files.
